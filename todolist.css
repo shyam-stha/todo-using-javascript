@@ -39,6 +39,7 @@ input[type=text]{
     display: inline-block;
     border: 1px solid #ccc;
     box-sizing: border-box;
+    color: black;
  }
 .todo-list{
     display:flex;
@@ -75,9 +76,3 @@ input[type=text]{
     box-sizing: border-box;
     width: 30%;
 }
-    
-   
-    
-    
-
-
